@@ -45,3 +45,9 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 <img src="./images/greenies.png" alt="Greenies Dog Treats" width="200" />
 
 <hr />
+
+[$8 - Peanut Massage Ball](https://www.amazon.com/gp/product/B0BZS65QWL/ref=ox_sc_act_image_1?smid=A2HMKC83ICKFI1&psc=1)
+
+<img src="./images/peanut-massage-ball.jpg" alt="Peanut Massage Ball" width="200" />
+
+<hr />
