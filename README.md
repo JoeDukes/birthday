@@ -4,6 +4,7 @@
 
 [Asics Gel Venture Shoe](https://www.asics.com/us/en-us/gel-venture-9/p/ANA_1011B486-024.html?size=12&width=Standard)
 
+<hr>
 
 <img src="./images/tofu-press.jpg" alt="Tofu Press" width="200"/>
 
