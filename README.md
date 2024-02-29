@@ -2,7 +2,9 @@
 
 <hr />
 
-[$60 - Asics Gel Venture Shoe](https://www.asics.com/us/en-us/gel-venture-9/p/ANA_1011B486-024.html?size=12&width=Standard)
+[$60 - Asics Gel Venture 9 Shoe (size 12, standard width)](https://www.asics.com/us/en-us/gel-venture-9/p/ANA_1011B486-024.html?size=12&width=Standard)
+
+Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 
 <img src="./images/gel-venture-shoe.webp" alt="Asics Gel Venture Shoe" width="200"/>
 
