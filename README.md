@@ -51,3 +51,9 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 <img src="./images/peanut-massage-ball.jpg" alt="Peanut Massage Ball" width="200" />
 
 <hr />
+
+[$35 - Sony Wireless Earbuds](https://www.target.com/p/sony-wic100-bluetooth-wireless-in-ear-headphones/-/A-90038819?preselect=88914387#lnk=sametab)
+
+<img src="./images/earbuds.webp" alt="Sony Wireless Earbuds" width="200" />
+
+<hr/>
