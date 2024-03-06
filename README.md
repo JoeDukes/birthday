@@ -28,8 +28,6 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 
 <hr />
 
-> [!Warning]
-> 
 > PURCHASED
 > 
 > ~~[$60 - Super Benriner Mandoline](https://www.surlatable.com/super-benriner-mandoline/PRO-3166394.html)~~
