@@ -28,7 +28,7 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 
 <hr />
 
-> [!Purchased]
+> [!Warning]
 > 
 > PURCHASED
 > 
