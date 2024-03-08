@@ -22,9 +22,11 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 
 <hr />
 
-[$60 - Root Board Game](https://ledergames.com/collections/root/products/root-a-game-of-woodland-might-and-right)
-
-<img src="./images/root-board-game.webp" alt="Root Board Game" width="200" />
+> ✔️ **PURCHASED**
+>
+> ~~[$60 - Root Board Game](https://ledergames.com/collections/root/products/root-a-game-of-woodland-might-and-right)~~
+>
+> <img src="./images/root-board-game.webp" alt="Root Board Game" width="200" />
 
 <hr />
 
@@ -51,6 +53,12 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 [$8 - Peanut Massage Ball](https://www.amazon.com/gp/product/B0BZS65QWL/ref=ox_sc_act_image_1?smid=A2HMKC83ICKFI1&psc=1)
 
 <img src="./images/peanut-massage-ball.jpg" alt="Peanut Massage Ball" width="200" />
+
+<hr />
+
+[$6 - Stretch Out Strap](https://www.amazon.com/gp/product/B0C9LQPCW9/)
+
+<img src="./images/stretch-out-strap.jpg" alt="Stretch Out Strap" width="200" />
 
 <hr />
 
