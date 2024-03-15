@@ -72,7 +72,7 @@
 
 > ✔️ **PURCHASED**
 > 
-> [$6 - Stretch Out Strap](https://www.amazon.com/gp/product/B0C9LQPCW9/)
+> ~~[$6 - Stretch Out Strap](https://www.amazon.com/gp/product/B0C9LQPCW9/)~~
 > 
 > <img src="./images/stretch-out-strap.jpg" alt="Stretch Out Strap" width="200" />
 
