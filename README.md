@@ -40,14 +40,6 @@
 
 > ⚠️ **PENDING**
 > 
-> [$6 - Stretch Out Strap](https://www.amazon.com/gp/product/B0C9LQPCW9/)
-> 
-> <img src="./images/stretch-out-strap.jpg" alt="Stretch Out Strap" width="200" />
-
-<hr />
-
-> ⚠️ **PENDING**
-> 
 > [$8 - Peanut Massage Ball](https://www.amazon.com/gp/product/B0BZS65QWL/ref=ox_sc_act_image_1?smid=A2HMKC83ICKFI1&psc=1)
 > 
 > <img src="./images/peanut-massage-ball.jpg" alt="Peanut Massage Ball" width="200" />
@@ -75,5 +67,13 @@
 > ~~[$60 - Super Benriner Mandoline](https://www.surlatable.com/super-benriner-mandoline/PRO-3166394.html)~~
 > 
 > <img src="./images/super-benriner-mandoline.webp" alt="Super Benriner Mandoline" width="200" />
+
+<hr />
+
+> ✔️ **PURCHASED**
+> 
+> [$6 - Stretch Out Strap](https://www.amazon.com/gp/product/B0C9LQPCW9/)
+> 
+> <img src="./images/stretch-out-strap.jpg" alt="Stretch Out Strap" width="200" />
 
 <hr />
