@@ -2,14 +2,6 @@
 
 <hr />
 
-[$60 - Asics Gel Venture 9 Shoe (size 12, standard width)](https://www.asics.com/us/en-us/gel-venture-9/p/ANA_1011B486-024.html?size=12&width=Standard)
-
-Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
-
-<img src="./images/gel-venture-shoe.webp" alt="Asics Gel Venture Shoe" width="200"/>
-
-<hr />
-
 [$200 - 7' x 10' Blue Rug](https://www.target.com/p/vintage-distressed-rug-threshold/-/A-51295694?preselect=51169609)
 
 <img src="./images/blue-rug.webp" alt="Blue Rug" width="200" />
@@ -25,6 +17,16 @@ Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
 [$18/$40 - Greenies Dog Treats for Misha](https://feederspetsupply.com/greenies-original-large-dental-treats/#)
 
 <img src="./images/greenies.png" alt="Greenies Dog Treats" width="200" />
+
+<hr />
+
+> ⚠️ **PENDING**
+>
+> [$60 - Asics Gel Venture 9 Shoe (size 12, standard width)](https://www.asics.com/us/en-us/gel-venture-9/p/ANA_1011B486-024.html?size=12&width=Standard)
+>
+> Asics Gel Venture 8 Shoe would also work and might be slightly cheaper
+>
+> <img src="./images/gel-venture-shoe.webp" alt="Asics Gel Venture Shoe" width="200"/>
 
 <hr />
 
